@@ -1,5 +1,6 @@
-# Ruby Script to thank your birthday wishes on Facebook in one click automatically
+#Script to thank your birthday wishes on Facebook
 
+Used Ruby 2.1.5
 
 # Guide
 
