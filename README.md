@@ -2,8 +2,8 @@
 
 <h3>Used: </h3>
 <ul>
-</li>Ruby 2.1.5 </li>
-</li> Facebook Graph API v2.4</li>
+<li>Ruby 2.1.5 </li>
+<li> Facebook Graph API v2.4</li>
 </ul>
 
 Used Ruby 2.1.5
