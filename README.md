@@ -6,8 +6,6 @@
 <li> Facebook Graph API v2.4</li>
 </ul>
 
-Used Ruby 2.1.5
-
 # Guide
 
 <ul>
