@@ -1,5 +1,11 @@
 #Script to thank your birthday wishes on Facebook
 
+<h3>Used: </h3>
+<ul>
+</li>Ruby 2.1.5 </li>
+</li> Facebook Graph API v2.4</li>
+</ul>
+
 Used Ruby 2.1.5
 
 # Guide
@@ -29,4 +35,4 @@ Used Ruby 2.1.5
 
 Thanks to:
 <ul>
-<li> <a href="https://github.com/astronomersiva/birthdayWishesReplier" /> </li>
+<li> <a href="https://github.com/astronomersiva/birthdayWishesReplier" > birthdayWishesReplier </a> </li>
