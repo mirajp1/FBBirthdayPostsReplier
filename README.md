@@ -29,4 +29,4 @@ Used Ruby 2.1.5
 
 Thanks to:
 <ul>
-<li> <a href="https://github.com/astronomersiva/birthdayWishesReplier" /a> </li>
+<li> <a href="https://github.com/astronomersiva/birthdayWishesReplier" /> </li>
